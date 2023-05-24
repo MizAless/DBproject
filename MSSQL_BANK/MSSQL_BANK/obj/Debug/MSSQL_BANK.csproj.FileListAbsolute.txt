@@ -1,0 +1,18 @@
+C:\Users\alexe\source\repos\MSSQL_BANK\MSSQL_BANK\bin\Debug\BankDB.mdf
+C:\Users\alexe\source\repos\MSSQL_BANK\MSSQL_BANK\bin\Debug\BankDB_log.ldf
+C:\Users\alexe\source\repos\MSSQL_BANK\MSSQL_BANK\bin\Debug\MSSQL_BANK.exe.config
+C:\Users\alexe\source\repos\MSSQL_BANK\MSSQL_BANK\bin\Debug\MSSQL_BANK.exe
+C:\Users\alexe\source\repos\MSSQL_BANK\MSSQL_BANK\bin\Debug\MSSQL_BANK.pdb
+C:\Users\alexe\source\repos\MSSQL_BANK\MSSQL_BANK\obj\Debug\MSSQL_BANK.csproj.AssemblyReference.cache
+C:\Users\alexe\source\repos\MSSQL_BANK\MSSQL_BANK\obj\Debug\MSSQL_BANK.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexe\source\repos\MSSQL_BANK\MSSQL_BANK\obj\Debug\MSSQL_BANK.Form1.resources
+C:\Users\alexe\source\repos\MSSQL_BANK\MSSQL_BANK\obj\Debug\MSSQL_BANK.Properties.Resources.resources
+C:\Users\alexe\source\repos\MSSQL_BANK\MSSQL_BANK\obj\Debug\MSSQL_BANK.csproj.GenerateResource.cache
+C:\Users\alexe\source\repos\MSSQL_BANK\MSSQL_BANK\obj\Debug\MSSQL_BANK.csproj.CoreCompileInputs.cache
+C:\Users\alexe\source\repos\MSSQL_BANK\MSSQL_BANK\obj\Debug\MSSQL_BANK.exe
+C:\Users\alexe\source\repos\MSSQL_BANK\MSSQL_BANK\obj\Debug\MSSQL_BANK.pdb
+C:\Users\alexe\source\repos\MSSQL_BANK\MSSQL_BANK\bin\Debug\ОБД лабораторные работы Пивоваров.accdb
+C:\Users\alexe\source\repos\MSSQL_BANK\MSSQL_BANK\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\alexe\source\repos\MSSQL_BANK\MSSQL_BANK\bin\Debug\itextsharp.dll
+C:\Users\alexe\source\repos\MSSQL_BANK\MSSQL_BANK\bin\Debug\itextsharp.xml
+C:\Users\alexe\source\repos\MSSQL_BANK\MSSQL_BANK\obj\Debug\MSSQL_BANK.csproj.CopyComplete
